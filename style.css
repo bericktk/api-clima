@@ -25,7 +25,7 @@ main{
 .input-form{
     display: flex;
     flex-direction: column;
-    width: 85%;
+    width: 50%;
 }
 
 .input-city, .form-btn{
